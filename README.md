@@ -131,7 +131,7 @@ The system grounds all argumentation in a large-scale **PubMed FAISS index** (~1
 ### Prerequisites
 
 - Python 3.8+
-- Access to **OpenAI**, **OpenRouter**, and (optionally) **Groq** APIs
+- Access to **OpenAI**, **OpenRouter**
 - ~2 GB disk space for the PubMed FAISS index files (pre-built; not included in repo due to size)
 
 ### 1. Clone the Repository
@@ -471,7 +471,7 @@ Add a function to [`framework/metrics_extension.py`](framework/metrics_extension
 
 ### Dataset
 
-- **Check-COVID:** A COVID-19 fact-checking benchmark with binary (`SUPPORT` / `REFUTE`) claim labels from scientific literature. All claims in this project are evaluated on the no-NEI test split.
+- **Check-COVID:** A COVID-19 fact-checking benchmark with binary (`SUPPORT` / `REFUTE`) claim labels from scientific literature. All claims in this project are evaluated on the test split.
 
 ### Retrieval Corpus
 
