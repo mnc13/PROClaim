@@ -137,8 +137,8 @@ The system grounds all argumentation in a large-scale **PubMed FAISS index** (~1
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mnc13/PRAG-ArgumentMining-MultiAgentDebate-RoleSwitching.git
-cd PRAG-ArgumentMining-MultiAgentDebate-RoleSwitching
+git clone https://anonymous.4open.science/r/PROClaim-2535/
+cd PROClaim
 ```
 
 ### 2. Create a Virtual Environment
