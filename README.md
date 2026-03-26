@@ -1,4 +1,6 @@
-# PROClaim : Courtroom-Style Multi-Agent Debate with Role-Switching and Progressive RAG for Controversial Claim Verification
+# PROClaim : Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification
+
+PROClaim (Progressive Retrieval Orchestrated multi-agent framework for Claim verification)
 
 > **A courtroom-style multi-agent debate framework for automated fact-checking, combining Progressive Retrieval-Augmented Generation (P-RAG), adversarial argument mining, and judicial panel evaluation.**
 
